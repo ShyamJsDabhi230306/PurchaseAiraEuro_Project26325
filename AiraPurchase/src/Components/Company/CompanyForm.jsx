@@ -108,7 +108,7 @@ function CompanyForm() {
 
         <div className="d-flex justify-content-between">
           <button
-            className="btn btn-secondary"
+            className="btn btn-primary"
             type="button"
             onClick={() => navigate('/dashboard/companymaster')}
           >
