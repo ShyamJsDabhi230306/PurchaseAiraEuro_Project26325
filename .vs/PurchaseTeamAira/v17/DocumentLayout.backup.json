@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\models\\entities\\outward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\models\\entities\\outward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\models\\entities\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\models\\entities\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\models\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\models\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\models\\alldto\\inwardoutwardrepodto\\inwardoutwardreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\models\\alldto\\inwardoutwardrepodto\\inwardoutwardreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\models\\entities\\secondinward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\models\\entities\\secondinward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\models\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\models\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\controllers\\outwardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\controllers\\outwardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\models\\entities\\pagepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\models\\entities\\pagepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\models\\paginationhelper\\paginationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\models\\paginationhelper\\paginationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|c:\\users\\admin\\source\\repos\\purchaseteamaira\\purchaseteamaira\\models\\alldto\\outward\\outwardcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D002ECA-98A2-41C1-B6E8-4737D54048DB}|PurchaseTeamAira\\PurchaseTeamAira.csproj|solutionrelative:purchaseteamaira\\models\\alldto\\outward\\outwardcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\Page.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Models\\Entities\\Page.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\Page.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Models\\Entities\\Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:10:13.896Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutWard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\OutWard.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Models\\Entities\\OutWard.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\OutWard.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Models\\Entities\\OutWard.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA7wAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:13:36.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA2wB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:05:36.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecondInWard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\SecondInWard.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Models\\Entities\\SecondInWard.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\SecondInWard.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Models\\Entities\\SecondInWard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:02:09.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:13:41.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\Login.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Models\\Entities\\Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\Login.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Models\\Entities\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:13:37.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaginationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\PaginationHelper\\PaginationHelper.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Models\\PaginationHelper\\PaginationHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\PaginationHelper\\PaginationHelper.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Models\\PaginationHelper\\PaginationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T11:56:53.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OutWardsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Controllers\\OutWardsController.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Controllers\\OutWardsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Controllers\\OutWardsController.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Controllers\\OutWardsController.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAuwJEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T11:41:01.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:59:16.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Program.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Program.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:59:10.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\appsettings.json",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\appsettings.json",
+              "RelativeToolTip": "PurchaseTeamAira\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T11:59:52.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\Operator.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Models\\Entities\\Operator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\Operator.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Models\\Entities\\Operator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:13:47.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InwardOutwardReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\AllDto\\InwardOutwardRepoDto\\InwardOutwardReportDto.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Models\\AllDto\\InwardOutwardRepoDto\\InwardOutwardReportDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\AllDto\\InwardOutwardRepoDto\\InwardOutwardReportDto.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Models\\AllDto\\InwardOutwardRepoDto\\InwardOutwardReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:06:29.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagePermission.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\PagePermission.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Models\\Entities\\PagePermission.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\Entities\\PagePermission.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Models\\Entities\\PagePermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T06:38:46.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OutWardCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\AllDto\\OutWard\\OutWardCreateDto.cs",
+              "RelativeDocumentMoniker": "PurchaseTeamAira\\Models\\AllDto\\OutWard\\OutWardCreateDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PurchaseTeamAira\\PurchaseTeamAira\\Models\\AllDto\\OutWard\\OutWardCreateDto.cs",
+              "RelativeToolTip": "PurchaseTeamAira\\Models\\AllDto\\OutWard\\OutWardCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T06:17:09.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
