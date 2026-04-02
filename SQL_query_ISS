@@ -1,0 +1,19 @@
+-- Create login for IIS Application Pool
+CREATE LOGIN [IIS APPPOOL\FITR] FROM WINDOWS;
+
+-- Switch to your database
+USE [FITR_DC_Database];
+
+-- Create user mapped to login
+CREATE USER [IIS APPPOOL\FITR] 
+FOR LOGIN [IIS APPPOOL\FITR];
+
+-- Grant roles (choose one option)
+
+-- 🔹 Option 1: Full control (for testing)
+ALTER ROLE db_owner 
+ADD MEMBER [IIS APPPOOL\FITR];
+
+-- 🔹 Option 2: Safer (recommended for production)
+-- ALTER ROLE db_datareader ADD MEMBER [IIS APPPOOL\YourAppPoolName];
+-- ALTER ROLE db_datawriter ADD MEMBER [IIS APPPOOL\YourAppPoolName];
